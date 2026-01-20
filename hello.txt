@@ -1,6 +1,0 @@
-﻿Hello,Git!
-Hello from feature branch!
-Hello from feature branch!
-New line from feature branch
-This line is added from feature-branch
-
